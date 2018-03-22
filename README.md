@@ -40,4 +40,4 @@ data used in the text is in `tables.R`. Note that the table for DIC first requir
 
 Questions about the R package `islandR` should be directed to the [issues page of the `islandR` package](https://github.com/jmarshallnz/islandR/issues)
 
-Questions about the paper may be directed to the [issues page here](issues).
+Questions about the paper may be directed to the [issues page here](../../issues).
